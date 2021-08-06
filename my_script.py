@@ -1,4 +1,6 @@
 print("Ibrahim Sadiq")
 print("ibrahimsadiq1792@gmail.com")
-print("@ibrahimhackbio")
+print("@ibrahim")
 print("Drug development")
+print("@ibrahimsadiq179")
+print("8")
